@@ -17,3 +17,7 @@ data:
       - expense-pod-reader
       userarn: arn:aws:iam::315069654700:user/ramesh
       username: ramesh
+    - groups:
+      - expense-pod-reader
+      userarn: arn:aws:iam::315069654700:user/ramesh
+      username: suresh
