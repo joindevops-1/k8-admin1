@@ -71,7 +71,7 @@ metadata:
   name: expense-cluster-reader
 subjects:
 - kind: User
-  name: harish # Name is case sensitive
+  name: rmesh # Name is case sensitive
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
